@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<archive>
+    <students>
+        <student id="1">
+            <firstname>Ivan</firstname>
+            <surname>Ivanov</surname>
+            <avgmark>7.6</avgmark>
+        </student>
+        <student id="2">
+            <firstname>Sidor</firstname>
+            <surname>Sidorov</surname>
+            <avgmark>4.4</avgmark>
+        </student>
+       <student id="3">
+          <firstname>Aliaksei</firstname>
+          <surname>Katsiankou</surname>
+          <avgmark>7.8</avgmark>
+        </student>
+        <student id="4">
+          <firstname>Andrey</firstname>
+          <surname>Avdreev</surname>
+          <avgmark>7.7</avgmark>
+        </student>
+  </students>
+</archive>
